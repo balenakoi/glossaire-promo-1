@@ -43,3 +43,9 @@
 
 14. RTFM : "Read The Fuc**** Manual !!!" 
 Pour faire court, si la réponse à votre question se trouve dans la documentation, ne la posez pas, au risque de vous faire remballer. Lisez la documentation ! ;)
+
+15. Langage Interprété : C'est un language qui exécute pas à pas les instructions du code source en décidant à chaque étape ce qu'il va faire ensuite. Exemple de language interprété : Python, Php et Perl.
+
+16. Langage Compilé : C'est un language qui va d'abord compilé le code source en language binaire que l'ordinateur comprend bien. C'est pour que se soit le système d'exploitation en lui même qui interprète le code.
+
+17. CRUD : Le CRUD est un acronyme de "Create Read Update Delete" qui sont les opérations de base pour crée un logiciel qui fonctionne correctement.

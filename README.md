@@ -13,11 +13,11 @@
 
     if($var = true)
       echo "Cette condition sera toujours vraie car il manque un égal ($var == true).";
-      
+
     if(true = $var)
       echo "Il y aura une erreur car on ne peut pas assigner de valeur à true.";
 
- 
+
  Ça permet de débuguer plus facilement en cas d'erreur de syntax & c'est une norme sur certains frameworks (cc symfony).
 
 5. VPS : Virtual Private Server, est un serveur qui est hébergé chez un fournisseur (OVH, et compagnies) et qui permet de mettre en place des services, serveur web, SFTP, FTP, etc... Le VPS est quand à lui hébergé sur une machine dite " hôte " qui elle même héberge plusieurs VPS, tout dépendra de la puissance de l'hôte.
@@ -41,7 +41,7 @@
 
 13. DRY : Dont Repeat Yourself : est une méthode de travail, un développeur est faignéant au moins de code il tapera au mieux il se portera. Quand vous avez 3-4 fois le même code qui se répète alors il n'est pas en " DRY ".
 
-14. RTFM : "Read The Fuc**** Manual !!!" 
+14. RTFM : "Read The Fuc**** Manual !!!"
 Pour faire court, si la réponse à votre question se trouve dans la documentation, ne la posez pas, au risque de vous faire remballer. Lisez la documentation ! ;)
 
 15. Langage Interprété : C'est un language qui exécute pas à pas les instructions du code source en décidant à chaque étape ce qu'il va faire ensuite. Exemple de language interprété : Python, Php et Perl.
@@ -49,3 +49,7 @@ Pour faire court, si la réponse à votre question se trouve dans la documentati
 16. Langage Compilé : C'est un language qui va d'abord compilé le code source en language binaire que l'ordinateur comprend bien. C'est pour que se soit le système d'exploitation en lui même qui interprète le code.
 
 17. CRUD : Le CRUD est un acronyme de "Create Read Update Delete" qui sont les opérations de base pour crée un logiciel qui fonctionne correctement.
+
+18. IDE : Environnement de développement (en gros c'est comme un editeur de texte).
+
+19. Mob programming : Programmation en groupe (c'est à dire un clavier et plusieurs personnes). 

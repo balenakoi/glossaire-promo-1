@@ -43,3 +43,20 @@
 
 14. RTFM : "Read The Fuc**** Manual !!!" 
 Pour faire court, si la réponse à votre question se trouve dans la documentation, ne la posez pas, au risque de vous faire remballer. Lisez la documentation ! ;)
+
+15. Versioner  (ou VCS en anglais, pour Version Control System): c'est un système qui enregistre l'évolution d'un fichier ou d'un ensemble de fichiers au cours du temps de manière à ce qu'on puisse rappeler une version antérieure d'un fichier à tout moment. 
+    
+16. L'acronyme informatique anglais CRUD désigne les quatre opérations de base pour la persistance des données, en particulier le stockage d'informations en base de données.
+
+Soit :
+    Create
+    Read
+    Update
+    Delete
+
+17. POO(Programmation Orienté Objet) : La POO va vous permettre de programmer en manipulant des objets. Ces objets eux vont interagir ensemble pour permettre de créer votre programme.
+
+
+18. MySQL: est donc un logiciel, dit, serveur qui tourne sur machine dédiée ou nom à cette tache. Son but est permettre la sauvegarde et la restitution de manière ""simple"" des données.
+
+19. JSON (JavaScript Object Notation) Il s'agit d'un moyen de stocker des informations de manière organisée et facile d'accès. En un mot, cela nous donne une collection de données lisible par l'homme et auxquelles nous pouvons accéder de manière très logique.

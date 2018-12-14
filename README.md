@@ -13,11 +13,11 @@
 
     if($var = true)
       echo "Cette condition sera toujours vraie car il manque un égal ($var == true).";
-      
+
     if(true = $var)
       echo "Il y aura une erreur car on ne peut pas assigner de valeur à true.";
 
- 
+
  Ça permet de débuguer plus facilement en cas d'erreur de syntax & c'est une norme sur certains frameworks (cc symfony).
 
 5. VPS : Virtual Private Server, est un serveur qui est hébergé chez un fournisseur (OVH, et compagnies) et qui permet de mettre en place des services, serveur web, SFTP, FTP, etc... Le VPS est quand à lui hébergé sur une machine dite " hôte " qui elle même héberge plusieurs VPS, tout dépendra de la puissance de l'hôte.
@@ -41,12 +41,22 @@
 
 13. DRY : Dont Repeat Yourself : est une méthode de travail, un développeur est faignéant au moins de code il tapera au mieux il se portera. Quand vous avez 3-4 fois le même code qui se répète alors il n'est pas en " DRY ".
 
-14. RTFM : "Read The Fuc**** Manual !!!" 
+14. RTFM : "Read The Fuc**** Manual !!!"
 Pour faire court, si la réponse à votre question se trouve dans la documentation, ne la posez pas, au risque de vous faire remballer. Lisez la documentation ! ;)
 
-15. Versioner  (ou VCS en anglais, pour Version Control System): c'est un système qui enregistre l'évolution d'un fichier ou d'un ensemble de fichiers au cours du temps de manière à ce qu'on puisse rappeler une version antérieure d'un fichier à tout moment. 
+15. Langage Interprété : C'est un language qui exécute pas à pas les instructions du code source en décidant à chaque étape ce qu'il va faire ensuite. Exemple de language interprété : Python, Php et Perl.
+
+16. Langage Compilé : C'est un language qui va d'abord compilé le code source en language binaire que l'ordinateur comprend bien. C'est pour que se soit le système d'exploitation en lui même qui interprète le code.
+
+17. CRUD : Le CRUD est un acronyme de "Create Read Update Delete" qui sont les opérations de base pour crée un logiciel qui fonctionne correctement.
+
+18. IDE : Environnement de développement (en gros c'est comme un editeur de texte).
+
+19. Mob programming : Programmation en groupe (c'est à dire un clavier et plusieurs personnes). 
+
+20. Versioner  (ou VCS en anglais, pour Version Control System): c'est un système qui enregistre l'évolution d'un fichier ou d'un ensemble de fichiers au cours du temps de manière à ce qu'on puisse rappeler une version antérieure d'un fichier à tout moment. 
     
-16. L'acronyme informatique anglais CRUD désigne les quatre opérations de base pour la persistance des données, en particulier le stockage d'informations en base de données.
+21. L'acronyme informatique anglais CRUD désigne les quatre opérations de base pour la persistance des données, en particulier le stockage d'informations en base de données.
 
 Soit :
     Create
@@ -54,9 +64,10 @@ Soit :
     Update
     Delete
 
-17. POO(Programmation Orienté Objet) : La POO va vous permettre de programmer en manipulant des objets. Ces objets eux vont interagir ensemble pour permettre de créer votre programme.
+22. POO(Programmation Orienté Objet) : La POO va vous permettre de programmer en manipulant des objets. Ces objets eux vont interagir ensemble pour permettre de créer votre programme.
 
 
-18. MySQL: est donc un logiciel, dit, serveur qui tourne sur machine dédiée ou nom à cette tache. Son but est permettre la sauvegarde et la restitution de manière ""simple"" des données.
+23. MySQL: est donc un logiciel, dit, serveur qui tourne sur machine dédiée ou nom à cette tache. Son but est permettre la sauvegarde et la restitution de manière ""simple"" des données.
 
-19. JSON (JavaScript Object Notation) Il s'agit d'un moyen de stocker des informations de manière organisée et facile d'accès. En un mot, cela nous donne une collection de données lisible par l'homme et auxquelles nous pouvons accéder de manière très logique.
+24. JSON (JavaScript Object Notation) Il s'agit d'un moyen de stocker des informations de manière organisée et facile d'accès. En un mot, cela nous donne une collection de données lisible par l'homme et auxquelles nous pouvons accéder de manière très logique.
+
